@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo Database</string>
+    <string name="task_name">Task Name</string>
+    <string name="date">Date</string>
+    <string name="insert">Insert</string>
+    <string name="get_tasks">Get Tasks</string>
+</resources>
